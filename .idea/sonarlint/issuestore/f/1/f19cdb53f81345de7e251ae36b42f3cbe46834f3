@@ -1,0 +1,8 @@
+
+csquid:HiddenFieldCheckU":Rename "cities" which hides the field declared at line 30.(‹ãô•8ãËœÛ-
+Asquid:S1148O"#Use a logger to log this exception.(Ç’Çê8ÚÆ’ÜÚ-
+Fsquid:S1148k"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8˜ôÛ-
+Fsquid:S1148i"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8£èìÛ-
+osquid:S2095["LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(†áûÿÿÿÿ8ÜñÛ-
+csquid:S2147j"ECombine this catch with the one at line 104, which has the same body.(ï­£Ä8˜ôÛ-
+wsquid:S1450"ZRemove the "cityAdapter" field and declare it as a local variable in the relevant methods.(„ï¦M8üé´Û-

@@ -1,0 +1,11 @@
+
+qsquid:S1488´"YImmediately return this expression instead of assigning it to the temporary variable "n".(½Ó¸½
+tsquid:S1488Š"\Immediately return this expression instead of assigning it to the temporary variable "cosH".(µ½Ü†
+ƒsquid:S1488º"kImmediately return this expression instead of assigning it to the temporary variable "elevationAdjustment".(ñ¾ÿÂ
+Zsquid:S1854;">Remove this useless assignment to local variable "doubleTime".(ëÉšîùÿÿÿÿ
+Zsquid:S1854d">Remove this useless assignment to local variable "doubleTime".(ëÉšîùÿÿÿÿ
+hsquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(¢‘Áıÿÿÿÿ
+hsquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(ş¾Ï½ÿÿÿÿÿ
+csquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(·åÿ´
+hsquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(¢‘Áıÿÿÿÿ
+csquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(Ä¼ÊÈ
